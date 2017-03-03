@@ -24,13 +24,13 @@ footer {
 .jumbotron .h1 {
   color: deeppink;
   display: inline-block;
+  vertical-align: top;
 }
 
 .jumbotron h2,
 .jumbotron .h2 {
   color: purple;
-  display: inline-block;
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 .jumbotron {
@@ -51,6 +51,6 @@ footer {
 }
 
 .input-group {
-    padding-bottom: 60px;
+    padding-bottom: 30px;
 
 }
