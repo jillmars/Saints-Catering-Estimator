@@ -43,9 +43,14 @@ footer {
 }
 
 .jumbotron p {
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     font-size: 21px;
     font-weight: 200;
     display: inline-block;
     text-align: right;
+}
+
+.input-group {
+    padding-bottom: 60px;
+
 }
