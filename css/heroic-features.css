@@ -12,6 +12,11 @@ h1 {
     display: inline-block;
 }
 
+p1 {
+    font-size: 2em;
+}
+
+
 
 .hero-spacer {
     margin-top: 50px;
