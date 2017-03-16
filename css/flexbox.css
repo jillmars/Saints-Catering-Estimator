@@ -41,8 +41,8 @@
 	}
 
 	.img {
-		height: 168px;
-		width: 252px;
+		height: 100%;
+		width: 100%;
 	}
 
 	.primary {
