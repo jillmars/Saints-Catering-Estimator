@@ -38,24 +38,25 @@ footer {
 
 .jumbotron h1,
 .jumbotron .h1 {
-  color: deeppink;
+  color: black;
   display: inline-block;
   vertical-align: top;
 }
 
 .jumbotron h2,
 .jumbotron .h2 {
-  color: purple;
-  font-size: 1em;
+  color: inherit;
+  font-size: 1.5em;
 }
 
 .jumbotron {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
-  color: inherit;
+  color: darkgray;
   background-color: #eee;
   display: inline-block;
+
 }
 
 .jumbotron p {
@@ -64,6 +65,14 @@ footer {
     font-weight: 200;
     display: inline-block;
     text-align: right;
+}
+
+#right-side {
+    float: left;
+}
+
+#left-side {
+    float: left;
 }
 
 .input-group {
