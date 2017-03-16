@@ -16,7 +16,13 @@ p1 {
     font-size: 2em;
 }
 
+#dollar {
+    color: green;
+}
 
+#output {
+    color: green;
+}
 
 .hero-spacer {
     margin-top: 50px;
