@@ -1,4 +1,4 @@
-
+/* Adding computational capability to catering selections */
 
 function calculator() {
     var numGuests=$('input[name=guests]').val()
@@ -18,3 +18,11 @@ function render() {
 
 $('input[name=guests]').on('change keyup keydown', render)
 $('input[type=checkbox]').on('change', render)
+
+/* Adding alert to Submit button on contact form 
+
+<script>
+$( "submit" ).click(function() {
+  $( this ).display();
+});
+</script> */

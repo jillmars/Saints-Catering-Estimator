@@ -81,4 +81,14 @@ footer {
 
 .input-group {
     padding-bottom: 30px;
+}
+
+.form-group {
+    max-width: 80%;
+    margin: auto;
+}
+
+.btn {
+    margin: auto;
+}
 
