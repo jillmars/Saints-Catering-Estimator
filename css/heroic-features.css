@@ -16,6 +16,35 @@ p1 {
     font-size: 2em;
 }
 
+p2 {
+    font-size: 1em;
+    color: rebeccapurple;
+}
+
+p3 {
+    font-size: 16px;
+    font-weight: 200;
+    display: block;
+    text-align: left;
+    color: purple;
+    padding: 2px;
+}
+p4 {
+    font-size: 12px;
+    display: block;
+    text-align: center;
+    color: purple;
+    padding: 2px;
+}
+
+p5 {
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    color: purple;
+    padding: 200px;
+}
+
 #dollar {
     color: green;
 }
@@ -34,6 +63,7 @@ p1 {
 
 footer {
     margin: 50px 0;
+    text-align: center;
 }
 
 .jumbotron h1,
@@ -41,6 +71,7 @@ footer {
   color: black;
   display: inline-block;
   vertical-align: top;
+  font-size: 3em;
 }
 
 .jumbotron h2,
@@ -67,12 +98,22 @@ footer {
     text-align: right;
 }
 
+.jumbotron p2 {
+    margin-bottom: 5px;
+    font-size: 21px;
+    font-weight: 200;
+    display: inline-block;
+    text-align: right;
+}
+
+
 .main-header img {
     max-width: 100%;
 }
 
 #right-side {
     float: left;
+    margin-top: 20px;
 }
 
 #left-side {
@@ -104,12 +145,11 @@ footer {
 #submit {
     color: lightgreen;
 }
-.ratpack {
-    max-height: 25%;
-}
 
-.panel {
-    background-image: url("img_ratpack.jpg"),
+#ratpack {
+    max-height: 25%;
+    margin-left: 20px;
+    margin-top: 40px;
 }
 
 
