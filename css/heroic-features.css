@@ -104,5 +104,15 @@ footer {
 #submit {
     color: lightgreen;
 }
+.ratpack {
+    max-height: 25%;
+}
+
+.panel {
+    background-image: url("img_ratpack.jpg"),
+}
+
+
+
 
 
