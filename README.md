@@ -1,3 +1,7 @@
+This page was created to allow customers interested in booking a private event at Saints Pizza Pub can get a general idea of how much their event might cost.  Users can enter the number of guests and, as they select additional menu items, the estimated cost is automatically updated.  There is also an About page, a Contact form and a page about Services is coming soon.
+
+RUN index.html
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Heroic Features](http://startbootstrap.com/template-overviews/heroic-features/)
 
 [Heroic Features](http://startbootstrap.com/template-overviews/heroic-features/) is a multipurpose HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
